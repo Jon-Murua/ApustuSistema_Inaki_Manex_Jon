@@ -1,0 +1,5775 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 00:41:17 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 8064@LAPTOP-83BOBPJL
+
+[2021-04-08 00:41:17 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 00:41:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 00:41:17 #4 type.registry] 
+New type domain.Event
+
+[2021-04-08 00:41:17 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 00:41:17 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 00:41:17 #7 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 00:41:17 #8 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 00:41:17 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 00:41:17 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 00:41:17 #11 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 00:41:17 #12 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 00:41:17 #13 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 00:41:17 #14 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 00:41:17 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 00:43:52 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 1264@LAPTOP-83BOBPJL
+
+[2021-04-08 00:43:52 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 00:43:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 00:43:52 #4 type.registry] 
+New type domain.Event
+
+[2021-04-08 00:43:52 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 00:43:52 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 00:43:52 #7 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 00:43:52 #8 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 00:43:52 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 00:43:52 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 00:43:52 #11 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 00:43:52 #12 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 00:43:52 #13 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 00:43:52 #14 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 00:43:52 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 00:46:34 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 14944@LAPTOP-83BOBPJL
+
+[2021-04-08 00:46:34 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 00:46:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 00:46:34 #4 type.registry] 
+New type domain.Event
+
+[2021-04-08 00:46:34 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 00:46:34 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 00:46:34 #7 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 00:46:34 #8 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 00:46:34 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 00:46:34 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 00:46:34 #11 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 00:46:34 #12 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 00:46:34 #13 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 00:46:34 #14 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 00:46:34 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 00:50:51 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 14580@LAPTOP-83BOBPJL
+
+[2021-04-08 00:50:52 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 00:50:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 00:50:52 #4 type.registry] 
+New type domain.Event
+
+[2021-04-08 00:50:52 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 00:50:52 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 00:50:52 #7 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 00:50:52 #8 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 00:50:52 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 00:50:52 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 00:50:52 #11 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 00:50:52 #12 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 00:50:52 #13 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 00:50:52 #14 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 00:50:52 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 10:24:58 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 10932@LAPTOP-83BOBPJL
+
+[2021-04-08 10:24:59 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 10:24:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 10:24:59 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 10:24:59 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 10:24:59 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 10:24:59 #7 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 10:24:59 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 10:24:59 #9 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 10:24:59 #10 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 10:24:59 #11 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 10:24:59 #12 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 10:24:59 #13 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 10:24:59 #14 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 10:24:59 #15 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 10:24:59 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 10:24:59 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 10:49:38 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 3140@LAPTOP-83BOBPJL
+
+[2021-04-08 10:49:38 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 10:49:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 10:49:38 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 10:49:38 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 10:49:38 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 10:49:38 #7 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 10:49:38 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 10:49:38 #9 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 10:49:38 #10 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 10:49:38 #11 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 10:49:38 #12 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 10:49:38 #13 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 10:49:38 #14 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 10:49:38 #15 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 10:49:38 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 10:49:38 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 10:50:38 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 13540@LAPTOP-83BOBPJL
+
+[2021-04-08 10:50:38 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 10:50:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 10:50:38 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 10:50:38 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 10:50:38 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 10:50:38 #7 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 10:50:38 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 10:50:38 #9 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 10:50:38 #10 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 10:50:38 #11 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 10:50:38 #12 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 10:50:38 #13 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 10:50:38 #14 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 10:50:38 #15 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 10:50:38 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 10:50:38 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 11:13:40 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 13660@LAPTOP-83BOBPJL
+
+[2021-04-08 11:13:40 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 11:13:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 11:13:40 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 11:13:40 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 11:13:40 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 11:13:40 #7 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 11:13:40 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 11:13:40 #9 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 11:13:40 #10 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 11:13:40 #11 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 11:13:40 #12 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 11:13:40 #13 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 11:13:40 #14 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 11:13:40 #15 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 11:13:40 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 11:13:40 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 11:15:50 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 3168@LAPTOP-83BOBPJL
+
+[2021-04-08 11:15:50 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 11:15:50 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 11:15:50 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 11:15:50 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 11:15:50 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 11:15:50 #7 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 11:15:50 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 11:15:50 #9 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 11:15:50 #10 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 11:15:50 #11 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 11:15:50 #12 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 11:15:50 #13 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 11:15:50 #14 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 11:15:50 #15 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 11:15:50 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 11:15:50 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 11:18:05 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 2092@LAPTOP-83BOBPJL
+
+[2021-04-08 11:18:06 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 11:18:06 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 11:18:06 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 11:18:06 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 11:18:06 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 11:18:06 #7 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 11:18:06 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 11:18:06 #9 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 11:18:06 #10 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 11:18:06 #11 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 11:18:06 #12 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 11:18:06 #13 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 11:18:06 #14 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 11:18:06 #15 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 11:18:06 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 11:18:06 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 11:21:46 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 1984@LAPTOP-83BOBPJL
+
+[2021-04-08 11:21:47 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 11:21:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 11:21:47 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 11:21:47 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 11:21:47 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 11:21:47 #7 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 11:21:47 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 11:21:47 #9 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 11:21:47 #10 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 11:21:47 #11 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 11:21:47 #12 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 11:21:47 #13 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 11:21:47 #14 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 11:21:47 #15 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 11:21:47 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 11:21:47 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 11:27:56 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 1416@LAPTOP-83BOBPJL
+
+[2021-04-08 11:27:56 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 11:27:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 11:27:56 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 11:27:56 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 11:27:56 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 11:27:56 #7 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 11:27:56 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 11:27:56 #9 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 11:27:56 #10 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 11:27:56 #11 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 11:27:56 #12 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 11:27:56 #13 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 11:27:56 #14 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 11:27:56 #15 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 11:27:56 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 11:27:56 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 11:30:49 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 16000@LAPTOP-83BOBPJL
+
+[2021-04-08 11:30:49 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 11:30:49 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 11:30:49 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 11:30:49 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 11:30:49 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 11:30:49 #7 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 11:30:49 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 11:30:49 #9 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 11:30:49 #10 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 11:30:49 #11 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 11:30:49 #12 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 11:30:49 #13 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 11:30:49 #14 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 11:30:49 #15 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 11:30:49 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 11:30:49 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 11:30:49 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 11:31:35 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 14428@LAPTOP-83BOBPJL
+
+[2021-04-08 11:31:35 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 11:31:35 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 11:31:35 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 11:31:35 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 11:31:35 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 11:31:35 #7 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 11:31:35 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 11:31:35 #9 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 11:31:35 #10 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 11:31:35 #11 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 11:31:35 #12 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 11:31:35 #13 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 11:31:35 #14 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 11:31:35 #15 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 11:31:35 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 11:31:35 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 11:31:35 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 11:33:30 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 1444@LAPTOP-83BOBPJL
+
+[2021-04-08 11:33:30 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 11:33:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 11:33:30 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 11:33:30 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 11:33:30 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 11:33:30 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 11:33:30 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 11:33:30 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 11:33:30 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 11:33:30 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 11:33:30 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 11:33:30 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 11:33:30 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 11:33:30 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 11:33:30 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 11:33:30 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 11:33:30 #18 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 11:33:30 #19 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 11:34:40 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 10708@LAPTOP-83BOBPJL
+
+[2021-04-08 11:34:40 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 11:34:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 11:34:40 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 11:34:40 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 11:34:40 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 11:34:40 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 11:34:40 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 11:34:40 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 11:34:40 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 11:34:40 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 11:34:40 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 11:34:40 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 11:34:40 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 11:34:40 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 11:34:40 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 11:34:40 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 11:34:40 #18 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 11:34:40 #19 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 11:35:42 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 9336@LAPTOP-83BOBPJL
+
+[2021-04-08 11:35:43 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 11:35:43 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 11:35:43 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 11:35:43 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 11:35:43 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 11:35:43 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 11:35:43 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 11:35:43 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 11:35:43 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 11:35:43 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 11:35:43 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 11:35:43 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 11:35:43 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 11:35:43 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 11:35:43 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 11:35:43 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 11:35:43 #18 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 11:35:43 #19 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 11:45:39 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 12868@LAPTOP-83BOBPJL
+
+[2021-04-08 11:45:39 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 11:45:39 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 11:45:39 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 11:45:39 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 11:45:39 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 11:45:39 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 11:45:39 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 11:45:39 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 11:45:39 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 11:45:39 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 11:45:39 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 11:45:39 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 11:45:39 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 11:45:39 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 11:45:40 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 11:45:40 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 11:45:40 #18 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 11:45:40 #19 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 11:47:29 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 10728@LAPTOP-83BOBPJL
+
+[2021-04-08 11:47:29 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 11:47:29 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 11:47:29 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 11:47:29 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 11:47:29 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 11:47:29 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 11:47:29 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 11:47:29 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 11:47:29 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 11:47:29 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 11:47:29 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 11:47:29 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 11:47:29 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 11:47:29 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 11:47:29 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 11:47:29 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 11:47:29 #18 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 11:47:29 #19 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 11:48:51 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 11804@LAPTOP-83BOBPJL
+
+[2021-04-08 11:48:51 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 11:48:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 11:48:51 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 11:48:51 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 11:48:51 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 11:48:52 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 11:48:52 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 11:48:52 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 11:48:52 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 11:48:52 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 11:48:52 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 11:48:52 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 11:48:52 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 11:48:52 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 11:48:52 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 11:48:52 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 11:48:52 #18 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 11:48:52 #19 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 11:54:48 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 14988@LAPTOP-83BOBPJL
+
+[2021-04-08 11:54:48 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 11:54:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 11:54:48 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 11:54:48 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 11:54:48 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 11:54:48 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 11:54:48 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 11:54:48 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 11:54:48 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 11:54:48 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 11:54:48 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 11:54:48 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 11:54:48 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 11:54:48 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 11:54:48 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 11:54:48 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 11:54:48 #18 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 11:54:48 #19 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 12:08:23 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 9124@LAPTOP-83BOBPJL
+
+[2021-04-08 12:08:23 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 12:08:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 12:08:23 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 12:08:23 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 12:08:23 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 12:08:23 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 12:08:23 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 12:08:23 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 12:08:23 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 12:08:23 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 12:08:23 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 12:08:23 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 12:08:23 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 12:08:23 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 12:08:23 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 12:08:23 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 12:08:23 #18 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 12:08:23 #19 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 12:15:57 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 2408@LAPTOP-83BOBPJL
+
+[2021-04-08 12:15:57 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 12:15:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 12:15:57 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 12:15:57 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 12:15:57 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 12:15:57 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 12:15:57 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 12:15:57 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 12:15:57 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 12:15:57 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 12:15:57 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 12:15:57 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 12:15:57 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 12:15:57 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 12:15:57 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 12:15:57 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 12:15:57 #18 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 12:15:57 #19 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 13:21:07 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 4792@LAPTOP-83BOBPJL
+
+[2021-04-08 13:21:08 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 13:21:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 13:21:08 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 13:21:08 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 13:21:08 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 13:21:08 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 13:21:08 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 13:21:08 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 13:21:08 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 13:21:08 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 13:21:08 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 13:21:08 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 13:21:08 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 13:21:08 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 13:21:08 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 13:21:08 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 13:21:08 #18 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 13:21:08 #19 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 13:21:08 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 13:22:41 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 15512@LAPTOP-83BOBPJL
+
+[2021-04-08 13:22:42 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 13:22:42 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 13:22:42 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 13:22:42 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 13:22:42 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 13:22:42 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 13:22:42 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 13:22:42 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 13:22:42 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 13:22:42 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 13:22:42 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 13:22:42 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 13:22:42 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 13:22:42 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 13:22:42 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 13:22:42 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 13:22:42 #18 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 13:22:42 #19 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 13:22:42 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 13:24:17 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 16008@LAPTOP-83BOBPJL
+
+[2021-04-08 13:24:17 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 13:24:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 13:24:17 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 13:24:17 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 13:24:17 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 13:24:17 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 13:24:17 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 13:24:17 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 13:24:17 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 13:24:17 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 13:24:17 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 13:24:17 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 13:24:17 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 13:24:17 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 13:24:17 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 13:24:17 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 13:24:17 #18 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 13:24:17 #19 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 13:24:17 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 13:25:30 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 15424@LAPTOP-83BOBPJL
+
+[2021-04-08 13:25:30 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 13:25:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 13:25:30 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 13:25:30 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 13:25:30 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 13:25:30 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 13:25:30 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 13:25:30 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 13:25:30 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 13:25:30 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 13:25:30 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 13:25:30 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 13:25:30 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 13:25:30 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 13:25:30 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 13:25:30 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 13:25:30 #18 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 13:25:30 #19 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 13:25:30 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 13:26:00 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 14380@LAPTOP-83BOBPJL
+
+[2021-04-08 13:26:00 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 13:26:00 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 13:26:00 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 13:26:00 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 13:26:00 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 13:26:00 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 13:26:00 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 13:26:00 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 13:26:00 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 13:26:00 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 13:26:00 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 13:26:00 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 13:26:00 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 13:26:00 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 13:26:00 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 13:26:00 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 13:26:00 #18 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 13:26:01 #19 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 13:26:01 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 13:28:34 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 15316@LAPTOP-83BOBPJL
+
+[2021-04-08 13:28:34 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 13:28:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 13:28:34 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 13:28:34 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 13:28:34 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 13:28:34 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 13:28:34 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 13:28:34 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 13:28:34 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 13:28:34 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 13:28:34 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 13:28:34 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 13:28:34 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 13:28:34 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 13:28:34 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 13:28:34 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 13:28:34 #18 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 13:28:34 #19 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 13:28:34 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 13:30:31 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 14304@LAPTOP-83BOBPJL
+
+[2021-04-08 13:30:32 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 13:30:32 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 13:30:32 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 13:30:32 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 13:30:32 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 13:30:32 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 13:30:32 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 13:30:32 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 13:30:32 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 13:30:32 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 13:30:32 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 13:30:32 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 13:30:32 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 13:30:32 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 13:30:32 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 13:30:32 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 13:30:32 #18 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 13:30:32 #19 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 13:30:32 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 13:34:25 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 12284@LAPTOP-83BOBPJL
+
+[2021-04-08 13:34:26 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 13:34:26 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 13:34:26 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 13:34:26 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 13:34:26 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 13:34:26 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 13:34:26 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 13:34:26 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 13:34:26 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 13:34:26 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 13:34:26 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 13:34:26 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 13:34:26 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 13:34:26 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 13:34:26 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 13:34:26 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 13:34:26 #18 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 13:34:26 #19 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 13:34:26 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 13:35:48 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 10580@LAPTOP-83BOBPJL
+
+[2021-04-08 13:35:48 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 13:35:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 13:35:48 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 13:35:48 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 13:35:48 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 13:35:48 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 13:35:48 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 13:35:48 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 13:35:48 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 13:35:48 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 13:35:48 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 13:35:48 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 13:35:48 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 13:35:48 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 13:35:48 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 13:35:48 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 13:35:48 #18 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 13:35:48 #19 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 13:35:48 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 13:40:54 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 14948@LAPTOP-83BOBPJL
+
+[2021-04-08 13:40:54 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 13:40:54 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 13:40:54 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 13:40:54 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 13:40:54 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 13:40:54 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 13:40:54 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 13:40:54 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 13:40:54 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 13:40:54 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 13:40:54 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 13:40:54 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 13:40:54 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 13:40:54 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 13:40:54 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 13:40:54 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 13:40:54 #18 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 13:40:54 #19 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 13:40:54 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 13:43:00 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 11104@LAPTOP-83BOBPJL
+
+[2021-04-08 13:43:00 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 13:43:00 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 13:43:00 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 13:43:00 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 13:43:00 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 13:43:00 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 13:43:00 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 13:43:00 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 13:43:00 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 13:43:00 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 13:43:00 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 13:43:00 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 13:43:00 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 13:43:00 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 13:43:00 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 13:43:00 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 13:43:00 #18 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 13:43:00 #19 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 13:43:00 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 14:11:47 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 3728@LAPTOP-83BOBPJL
+
+[2021-04-08 14:11:47 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 14:11:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 14:11:47 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 14:11:47 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 14:11:47 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 14:11:47 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 14:11:47 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 14:11:47 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 14:11:47 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 14:11:47 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 14:11:47 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 14:11:47 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 14:11:47 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 14:11:47 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 14:11:47 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 14:11:47 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 14:11:47 #18 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 14:11:47 #19 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 14:11:47 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 16:33:54 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 17192@LAPTOP-83BOBPJL
+
+[2021-04-08 16:33:55 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 16:33:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 16:33:55 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 16:33:55 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 16:33:55 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 16:33:55 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 16:33:55 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 16:33:55 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 16:33:55 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 16:33:55 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 16:33:55 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 16:33:55 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 16:33:55 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 16:33:55 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 16:33:55 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 16:33:55 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 16:33:55 #18 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 16:33:55 #19 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 16:33:55 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 16:35:37 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 14468@LAPTOP-83BOBPJL
+
+[2021-04-08 16:35:37 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 16:35:37 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 16:35:37 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 16:35:37 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 16:35:37 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 16:35:37 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 16:35:37 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 16:35:37 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 16:35:37 #10 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 16:35:37 #11 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 16:35:37 #12 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 16:35:37 #13 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 16:35:37 #14 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 16:35:37 #15 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 16:35:37 #16 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 16:35:37 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 16:35:37 #18 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 16:35:37 #19 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 16:35:37 #20 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 17:13:01 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 17220@LAPTOP-83BOBPJL
+
+[2021-04-08 17:13:01 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 17:13:01 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 17:13:01 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 17:13:02 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 17:13:02 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 17:13:02 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 17:13:02 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 17:13:02 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 17:13:02 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 17:13:02 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 17:13:02 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 17:13:02 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 17:13:02 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 17:13:02 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 17:13:02 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 17:13:02 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 17:13:02 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 17:13:02 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 17:13:02 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 17:13:02 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 17:13:02 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 17:14:55 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 14364@LAPTOP-83BOBPJL
+
+[2021-04-08 17:14:55 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 17:14:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 17:14:55 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 17:14:55 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 17:14:55 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 17:14:55 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 17:14:55 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 17:14:55 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 17:14:55 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 17:14:55 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 17:14:55 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 17:14:55 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 17:14:55 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 17:14:55 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 17:14:55 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 17:14:55 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 17:14:55 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 17:14:55 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 17:14:55 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 17:14:55 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 17:14:55 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 17:20:25 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 16608@LAPTOP-83BOBPJL
+
+[2021-04-08 17:20:25 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 17:20:25 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 17:20:25 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 17:20:25 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 17:20:25 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 17:20:25 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 17:20:25 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 17:20:25 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 17:20:25 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 17:20:25 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 17:20:25 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 17:20:25 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 17:20:25 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 17:20:25 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 17:20:25 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 17:20:25 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 17:20:25 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 17:20:25 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 17:20:25 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 17:20:25 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 17:20:25 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 17:21:26 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 12252@LAPTOP-83BOBPJL
+
+[2021-04-08 17:21:26 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 17:21:26 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 17:21:26 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 17:21:26 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 17:21:26 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 17:21:26 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 17:21:26 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 17:21:26 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 17:21:26 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 17:21:26 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 17:21:26 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 17:21:26 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 17:21:26 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 17:21:26 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 17:21:26 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 17:21:26 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 17:21:26 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 17:21:26 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 17:21:26 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 17:21:26 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 17:21:26 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 17:21:57 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 10268@LAPTOP-83BOBPJL
+
+[2021-04-08 17:21:57 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 17:21:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 17:21:57 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 17:21:57 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 17:21:57 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 17:21:57 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 17:21:57 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 17:21:57 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 17:21:57 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 17:21:57 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 17:21:57 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 17:21:57 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 17:21:57 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 17:21:57 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 17:21:57 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 17:21:57 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 17:21:57 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 17:21:57 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 17:21:57 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 17:21:57 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 17:21:57 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 17:24:11 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 17100@LAPTOP-83BOBPJL
+
+[2021-04-08 17:24:11 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 17:24:11 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 17:24:11 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 17:24:11 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 17:24:11 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 17:24:11 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 17:24:11 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 17:24:11 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 17:24:11 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 17:24:11 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 17:24:11 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 17:24:11 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 17:24:11 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 17:24:11 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 17:24:11 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 17:24:11 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 17:24:11 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 17:24:11 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 17:24:11 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 17:24:11 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 17:24:11 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 17:25:49 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 16496@LAPTOP-83BOBPJL
+
+[2021-04-08 17:25:49 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 17:25:49 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 17:25:49 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 17:25:49 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 17:25:49 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 17:25:49 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 17:25:49 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 17:25:49 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 17:25:49 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 17:25:49 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 17:25:49 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 17:25:49 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 17:25:49 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 17:25:49 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 17:25:49 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 17:25:49 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 17:25:49 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 17:25:49 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 17:25:49 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 17:25:49 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 17:25:49 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 17:27:31 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 11668@LAPTOP-83BOBPJL
+
+[2021-04-08 17:27:31 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 17:27:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 17:27:31 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 17:27:31 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 17:27:31 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 17:27:31 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 17:27:31 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 17:27:31 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 17:27:31 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 17:27:31 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 17:27:31 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 17:27:31 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 17:27:31 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 17:27:31 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 17:27:31 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 17:27:31 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 17:27:31 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 17:27:31 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 17:27:31 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 17:27:31 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 17:27:31 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 17:31:47 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 8024@LAPTOP-83BOBPJL
+
+[2021-04-08 17:31:47 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 17:31:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 17:31:47 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 17:31:47 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 17:31:47 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 17:31:47 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 17:31:47 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 17:31:47 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 17:31:47 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 17:31:47 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 17:31:47 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 17:31:47 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 17:31:47 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 17:31:47 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 17:31:47 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 17:31:47 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 17:31:47 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 17:31:47 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 17:31:47 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 17:31:47 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 17:31:47 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 17:39:02 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 17316@LAPTOP-83BOBPJL
+
+[2021-04-08 17:39:03 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 17:39:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 17:39:03 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 17:39:03 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 17:39:03 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 17:39:03 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 17:39:03 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 17:39:03 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 17:39:03 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 17:39:03 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 17:39:03 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 17:39:03 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 17:39:03 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 17:39:03 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 17:39:03 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 17:39:03 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 17:39:03 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 17:39:03 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 17:39:03 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 17:39:03 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 17:39:03 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 17:47:08 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 16660@LAPTOP-83BOBPJL
+
+[2021-04-08 17:47:09 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 17:47:09 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 17:47:09 #4 type.registry] 
+New type domain.Event
+
+[2021-04-08 17:47:09 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 17:47:09 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 17:47:09 #7 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 17:47:09 #8 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 17:47:09 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 17:47:09 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 17:47:09 #11 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 17:47:09 #12 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 17:47:09 #13 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 17:47:09 #14 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 17:47:09 #15 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 17:47:09 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 17:47:09 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 17:47:09 #18 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 17:47:09 #19 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 17:51:30 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 14792@LAPTOP-83BOBPJL
+
+[2021-04-08 17:51:30 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 17:51:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 17:51:30 #4 type.registry] 
+New type domain.Event
+
+[2021-04-08 17:51:30 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 17:51:30 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 17:51:30 #7 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 17:51:30 #8 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 17:51:30 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 17:51:30 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 17:51:30 #11 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 17:51:30 #12 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 17:51:30 #13 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 17:51:30 #14 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 17:51:30 #15 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 17:51:30 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 17:51:30 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 17:51:30 #18 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 17:51:30 #19 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 17:53:38 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 3804@LAPTOP-83BOBPJL
+
+[2021-04-08 17:53:39 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 17:53:39 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 17:53:39 #4 type.registry] 
+New type domain.Event
+
+[2021-04-08 17:53:39 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 17:53:39 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 17:53:39 #7 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 17:53:39 #8 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 17:53:39 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 17:53:39 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 17:53:39 #11 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 17:53:39 #12 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 17:53:39 #13 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 17:53:39 #14 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 17:53:39 #15 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 17:53:39 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 17:53:39 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 17:53:39 #18 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 17:53:39 #19 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 17:57:42 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 11332@LAPTOP-83BOBPJL
+
+[2021-04-08 17:57:42 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 17:57:42 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 17:57:42 #4 type.registry] 
+New type domain.Event
+
+[2021-04-08 17:57:42 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 17:57:42 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 17:57:42 #7 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 17:57:42 #8 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 17:57:42 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 17:57:42 #10 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 17:57:42 #11 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 17:57:42 #12 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 17:57:42 #13 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 17:57:42 #14 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 17:57:42 #15 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 17:57:42 #16 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 17:57:42 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 17:57:42 #18 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 17:57:42 #19 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 18:02:30 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 8680@LAPTOP-83BOBPJL
+
+[2021-04-08 18:02:30 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 18:02:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 18:02:30 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 18:02:31 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 18:02:31 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 18:02:31 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 18:02:31 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 18:02:31 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 18:02:31 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 18:02:31 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 18:02:31 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 18:02:31 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 18:02:31 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 18:02:31 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 18:02:31 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 18:02:31 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 18:02:31 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 18:02:31 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 18:02:31 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 18:02:31 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 18:02:31 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 18:07:24 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 16620@LAPTOP-83BOBPJL
+
+[2021-04-08 18:07:24 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 18:07:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 18:07:24 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 18:07:24 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 18:07:24 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 18:07:24 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 18:07:24 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 18:07:24 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 18:07:24 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 18:07:24 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 18:07:24 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 18:07:24 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 18:07:24 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 18:07:24 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 18:07:24 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 18:07:24 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 18:07:24 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 18:07:24 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 18:07:24 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 18:07:24 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 18:07:24 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 18:18:03 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 5952@LAPTOP-83BOBPJL
+
+[2021-04-08 18:18:03 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 18:18:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 18:18:03 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 18:18:03 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 18:18:03 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 18:18:03 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 18:18:03 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 18:18:03 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 18:18:03 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 18:18:03 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 18:18:03 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 18:18:03 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 18:18:03 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 18:18:03 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 18:18:03 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 18:18:03 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 18:18:03 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 18:18:03 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 18:18:03 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 18:18:03 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 18:18:03 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 18:24:16 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 11824@LAPTOP-83BOBPJL
+
+[2021-04-08 18:24:16 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 18:24:16 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 18:24:16 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 18:24:16 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 18:24:16 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 18:24:16 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 18:24:16 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 18:24:16 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 18:24:16 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 18:24:16 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 18:24:16 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 18:24:16 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 18:24:16 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 18:24:16 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 18:24:16 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 18:24:16 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 18:24:16 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 18:24:16 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 18:24:16 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 18:24:16 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 18:24:16 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 18:25:26 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 1756@LAPTOP-83BOBPJL
+
+[2021-04-08 18:25:26 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 18:25:26 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 18:25:26 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 18:25:26 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 18:25:26 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 18:25:26 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 18:25:26 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 18:25:26 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 18:25:26 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 18:25:26 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 18:25:27 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 18:25:27 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 18:25:27 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 18:25:27 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 18:25:27 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 18:25:27 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 18:25:27 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 18:25:27 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 18:25:27 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 18:25:27 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 18:25:27 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 18:26:17 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 14856@LAPTOP-83BOBPJL
+
+[2021-04-08 18:26:17 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 18:26:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 18:26:17 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 18:26:17 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 18:26:17 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 18:26:17 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 18:26:17 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 18:26:17 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 18:26:17 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 18:26:17 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 18:26:17 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 18:26:17 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 18:26:17 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 18:26:17 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 18:26:17 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 18:26:17 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 18:26:17 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 18:26:17 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 18:26:17 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 18:26:17 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 18:26:17 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 18:30:28 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 16808@LAPTOP-83BOBPJL
+
+[2021-04-08 18:30:28 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 18:30:28 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 18:30:28 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 18:30:28 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 18:30:29 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 18:30:29 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 18:30:29 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 18:30:29 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 18:30:29 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 18:30:29 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 18:30:29 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 18:30:29 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 18:30:29 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 18:30:29 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 18:30:29 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 18:30:29 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 18:30:29 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 18:30:29 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 18:30:29 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 18:30:29 #21 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-08 18:30:29 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 18:36:46 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 2188@LAPTOP-83BOBPJL
+
+[2021-04-08 18:36:46 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 18:36:46 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 18:36:46 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 18:36:46 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 18:36:46 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 18:36:46 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 18:36:46 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 18:36:46 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 18:36:46 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 18:36:46 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 18:36:47 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 18:36:47 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 18:36:47 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 18:36:47 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 18:36:47 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 18:36:47 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 18:36:47 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 18:36:47 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 18:36:47 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 18:36:47 #21 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 18:36:47 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 18:40:40 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 12044@LAPTOP-83BOBPJL
+
+[2021-04-08 18:40:40 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 18:40:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 18:40:40 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 18:40:40 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 18:40:40 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 18:40:41 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 18:40:41 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 18:40:41 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 18:40:41 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 18:40:41 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 18:40:41 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 18:40:41 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 18:40:41 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 18:40:41 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 18:40:41 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 18:40:41 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 18:40:41 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 18:40:41 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 18:40:41 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 18:40:41 #21 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 18:40:41 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 18:47:04 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 12540@LAPTOP-83BOBPJL
+
+[2021-04-08 18:47:04 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 18:47:04 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 18:47:04 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 18:47:04 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 18:47:04 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 18:47:04 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 18:47:04 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 18:47:04 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 18:47:04 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 18:47:04 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 18:47:04 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 18:47:04 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 18:47:04 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 18:47:04 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 18:47:04 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 18:47:04 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 18:47:04 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 18:47:04 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 18:47:04 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 18:47:04 #21 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 18:47:04 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 18:49:44 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 988@LAPTOP-83BOBPJL
+
+[2021-04-08 18:49:44 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 18:49:44 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 18:49:44 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 18:49:44 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 18:49:44 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 18:49:44 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 18:49:44 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 18:49:44 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 18:49:44 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 18:49:44 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 18:49:44 #12 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 18:49:44 #13 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 18:49:44 #14 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 18:49:44 #15 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 18:49:44 #16 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 18:49:44 #17 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 18:49:44 #18 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 18:49:44 #19 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 18:49:44 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 18:49:44 #21 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 18:49:44 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 18:52:56 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 256@LAPTOP-83BOBPJL
+
+[2021-04-08 18:52:57 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 18:52:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 18:52:57 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 18:52:57 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 18:52:57 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 18:52:57 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 18:52:57 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 18:52:57 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 18:52:57 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 18:52:57 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 18:52:57 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 18:52:57 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 18:52:57 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 18:52:57 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 18:52:57 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 18:52:57 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 18:52:57 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 18:52:57 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 18:52:57 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 18:52:57 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 18:52:57 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 18:52:57 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 18:53:22 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 4152@LAPTOP-83BOBPJL
+
+[2021-04-08 18:53:22 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 18:53:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 18:53:22 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 18:53:22 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 18:53:22 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 18:53:22 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 18:53:22 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 18:53:22 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 18:53:22 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 18:53:22 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 18:53:22 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 18:53:22 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 18:53:22 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 18:53:22 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 18:53:22 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 18:53:22 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 18:53:22 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 18:53:22 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 18:53:22 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 18:53:22 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 18:53:22 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 18:53:22 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 18:58:52 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 3152@LAPTOP-83BOBPJL
+
+[2021-04-08 18:58:52 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 18:58:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 18:58:52 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 18:58:53 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 18:58:53 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 18:58:53 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 18:58:53 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 18:58:53 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 18:58:53 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 18:58:53 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 18:58:53 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 18:58:53 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 18:58:53 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 18:58:53 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 18:58:53 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 18:58:53 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 18:58:53 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 18:58:53 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 18:58:53 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 18:58:53 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 18:58:53 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 18:58:53 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 19:00:55 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 17484@LAPTOP-83BOBPJL
+
+[2021-04-08 19:00:55 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 19:00:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 19:00:55 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 19:00:55 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 19:00:55 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 19:00:55 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 19:00:55 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 19:00:55 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 19:00:55 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 19:00:55 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 19:00:55 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 19:00:55 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 19:00:55 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 19:00:55 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 19:00:55 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 19:00:55 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 19:00:55 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 19:00:55 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 19:00:55 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 19:00:55 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 19:00:55 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 19:00:55 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 19:04:55 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 4756@LAPTOP-83BOBPJL
+
+[2021-04-08 19:04:55 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 19:04:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 19:04:55 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 19:04:55 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 19:04:55 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 19:04:55 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 19:04:55 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 19:04:55 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 19:04:55 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 19:04:55 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 19:04:55 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 19:04:55 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 19:04:55 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 19:04:55 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 19:04:55 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 19:04:55 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 19:04:55 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 19:04:55 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 19:04:55 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 19:04:55 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 19:04:55 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 19:04:55 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 19:10:04 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 17052@LAPTOP-83BOBPJL
+
+[2021-04-08 19:10:04 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 19:10:04 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 19:10:04 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 19:10:04 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 19:10:04 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 19:10:04 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 19:10:04 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 19:10:04 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 19:10:04 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 19:10:04 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 19:10:04 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 19:10:04 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 19:10:04 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 19:10:04 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 19:10:04 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 19:10:04 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 19:10:04 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 19:10:04 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 19:10:04 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 19:10:04 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 19:10:04 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 19:10:04 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 19:16:43 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 18060@LAPTOP-83BOBPJL
+
+[2021-04-08 19:16:43 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 19:16:43 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 19:16:43 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 19:16:43 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 19:16:43 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 19:16:43 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 19:16:43 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 19:16:43 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 19:16:43 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 19:16:43 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 19:16:43 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 19:16:43 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 19:16:43 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 19:16:43 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 19:16:43 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 19:16:43 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 19:16:43 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 19:16:43 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 19:16:43 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 19:16:43 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 19:16:43 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 19:16:43 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 19:28:59 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 11088@LAPTOP-83BOBPJL
+
+[2021-04-08 19:29:00 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 19:29:00 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 19:29:00 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 19:29:00 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 19:29:00 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 19:29:00 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 19:29:00 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 19:29:00 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 19:29:00 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 19:29:00 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 19:29:00 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 19:29:00 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 19:29:00 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 19:29:00 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 19:29:00 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 19:29:00 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 19:29:00 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 19:29:00 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 19:29:00 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 19:29:00 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 19:29:00 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 19:29:00 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 19:46:49 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 1844@LAPTOP-83BOBPJL
+
+[2021-04-08 19:46:49 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 19:46:49 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 19:46:49 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 19:46:49 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 19:46:49 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 19:46:49 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 19:46:49 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 19:46:49 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 19:46:49 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 19:46:49 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 19:46:49 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 19:46:49 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 19:46:49 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 19:46:49 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 19:46:49 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 19:46:49 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 19:46:49 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 19:46:49 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 19:46:49 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 19:46:49 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 19:46:49 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 19:46:49 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 19:48:43 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 3740@LAPTOP-83BOBPJL
+
+[2021-04-08 19:48:43 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 19:48:43 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 19:48:43 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 19:48:43 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 19:48:43 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 19:48:43 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 19:48:43 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 19:48:43 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 19:48:43 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 19:48:43 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 19:48:43 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 19:48:43 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 19:48:43 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 19:48:43 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 19:48:43 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 19:48:43 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 19:48:43 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 19:48:43 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 19:48:43 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 19:48:43 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 19:48:43 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 19:48:43 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 19:49:16 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 5572@LAPTOP-83BOBPJL
+
+[2021-04-08 19:49:16 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 19:49:16 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 19:49:16 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 19:49:16 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 19:49:16 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 19:49:16 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 19:49:16 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 19:49:16 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 19:49:16 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 19:49:16 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 19:49:16 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 19:49:16 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 19:49:16 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 19:49:16 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 19:49:16 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 19:49:16 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 19:49:16 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 19:49:16 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 19:49:16 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 19:49:16 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 19:49:16 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 19:49:16 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 19:53:21 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 14792@LAPTOP-83BOBPJL
+
+[2021-04-08 19:53:21 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 19:53:21 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 19:53:21 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 19:53:21 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 19:53:21 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 19:53:21 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 19:53:21 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 19:53:21 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 19:53:21 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 19:53:21 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 19:53:21 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 19:53:21 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 19:53:21 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 19:53:21 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 19:53:21 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 19:53:21 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 19:53:21 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 19:53:21 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 19:53:21 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 19:53:21 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 19:53:21 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 19:53:21 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 20:01:05 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 14020@LAPTOP-83BOBPJL
+
+[2021-04-08 20:01:05 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 20:01:05 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 20:01:05 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 20:01:05 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 20:01:05 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 20:01:05 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 20:01:05 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 20:01:05 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 20:01:05 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 20:01:05 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 20:01:05 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 20:01:05 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 20:01:05 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 20:01:05 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 20:01:05 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 20:01:05 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 20:01:05 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 20:01:05 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 20:01:05 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 20:01:05 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 20:01:05 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 20:01:05 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 20:08:21 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 4736@LAPTOP-83BOBPJL
+
+[2021-04-08 20:08:21 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 20:08:21 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 20:08:21 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 20:08:21 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 20:08:21 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 20:08:21 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 20:08:21 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 20:08:21 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 20:08:21 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 20:08:21 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 20:08:21 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 20:08:21 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 20:08:21 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 20:08:21 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 20:08:21 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 20:08:21 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 20:08:21 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 20:08:21 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 20:08:21 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 20:08:21 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 20:08:21 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 20:08:21 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 20:10:44 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 15696@LAPTOP-83BOBPJL
+
+[2021-04-08 20:10:44 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 20:10:44 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 20:10:44 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 20:10:44 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 20:10:44 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 20:10:44 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 20:10:44 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 20:10:44 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 20:10:44 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 20:10:44 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 20:10:44 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 20:10:44 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 20:10:44 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 20:10:44 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 20:10:44 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 20:10:44 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 20:10:44 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 20:10:44 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 20:10:44 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 20:10:44 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 20:10:44 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 20:10:44 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 20:15:00 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 4940@LAPTOP-83BOBPJL
+
+[2021-04-08 20:15:00 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 20:15:00 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 20:15:00 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 20:15:00 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 20:15:00 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 20:15:00 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 20:15:00 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 20:15:00 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 20:15:00 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 20:15:00 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 20:15:00 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 20:15:00 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 20:15:00 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 20:15:00 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 20:15:00 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 20:15:00 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 20:15:00 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 20:15:00 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 20:15:00 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 20:15:00 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 20:15:00 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 20:15:00 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 20:17:31 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 4876@LAPTOP-83BOBPJL
+
+[2021-04-08 20:17:31 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 20:17:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 20:17:31 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 20:17:31 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 20:17:31 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 20:17:31 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 20:17:31 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 20:17:31 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 20:17:31 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 20:17:31 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 20:17:31 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 20:17:31 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 20:17:31 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 20:17:31 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 20:17:31 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 20:17:31 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 20:17:31 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 20:17:31 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 20:17:31 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 20:17:31 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 20:17:31 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 20:17:31 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 20:54:07 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 16712@LAPTOP-83BOBPJL
+
+[2021-04-08 20:54:07 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 20:54:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 20:54:07 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 20:54:07 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 20:54:07 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 20:54:07 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 20:54:07 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 20:54:07 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 20:54:07 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 20:54:07 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 20:54:07 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 20:54:07 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 20:54:07 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 20:54:07 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 20:54:07 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 20:54:07 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 20:54:07 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 20:54:07 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 20:54:07 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 20:54:07 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 20:54:07 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 20:54:07 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 20:55:24 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 6356@LAPTOP-83BOBPJL
+
+[2021-04-08 20:55:24 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 20:55:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 20:55:24 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 20:55:24 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 20:55:24 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 20:55:24 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 20:55:24 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 20:55:24 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 20:55:24 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 20:55:24 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 20:55:24 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 20:55:24 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 20:55:24 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 20:55:24 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 20:55:24 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 20:55:24 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 20:55:24 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 20:55:24 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 20:55:24 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 20:55:24 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 20:55:24 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 20:55:24 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 21:02:23 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 18248@LAPTOP-83BOBPJL
+
+[2021-04-08 21:02:23 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 21:02:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 21:02:23 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 21:02:23 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 21:02:23 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 21:02:23 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 21:02:23 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 21:02:23 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 21:02:23 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 21:02:23 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 21:02:23 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 21:02:23 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 21:02:23 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 21:02:23 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 21:02:23 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 21:02:23 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 21:02:23 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 21:02:23 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 21:02:23 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 21:02:23 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 21:02:23 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 21:02:23 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 21:24:35 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 13832@LAPTOP-83BOBPJL
+
+[2021-04-08 21:24:35 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 21:24:35 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 21:24:35 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 21:24:35 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 21:24:35 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 21:24:35 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 21:24:35 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 21:24:35 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 21:24:35 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 21:24:35 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 21:24:35 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 21:24:35 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 21:24:35 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 21:24:35 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 21:24:35 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 21:24:35 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 21:24:35 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 21:24:35 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 21:24:35 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 21:24:35 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 21:24:35 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 21:24:35 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 21:25:23 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 13868@LAPTOP-83BOBPJL
+
+[2021-04-08 21:25:24 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 21:25:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 21:25:24 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 21:25:24 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 21:25:24 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 21:25:24 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 21:25:24 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 21:25:24 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 21:25:24 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 21:25:24 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 21:25:24 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 21:25:24 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 21:25:24 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 21:25:24 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 21:25:24 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 21:25:24 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 21:25:24 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 21:25:24 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 21:25:24 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 21:25:24 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 21:25:24 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 21:25:24 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 21:32:10 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 16472@LAPTOP-83BOBPJL
+
+[2021-04-08 21:32:10 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 21:32:10 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 21:32:10 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 21:32:10 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 21:32:10 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 21:32:10 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 21:32:10 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 21:32:10 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 21:32:10 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 21:32:10 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 21:32:10 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 21:32:10 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 21:32:10 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 21:32:10 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 21:32:10 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 21:32:10 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 21:32:10 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 21:32:10 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 21:32:10 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 21:32:10 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 21:32:10 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 21:32:10 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 21:33:22 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 15092@LAPTOP-83BOBPJL
+
+[2021-04-08 21:33:22 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 21:33:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 21:33:22 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 21:33:22 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 21:33:22 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 21:33:22 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 21:33:22 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 21:33:22 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 21:33:22 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 21:33:22 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 21:33:22 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 21:33:22 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 21:33:22 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 21:33:22 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 21:33:22 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 21:33:22 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 21:33:22 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 21:33:22 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 21:33:22 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 21:33:22 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 21:33:22 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 21:33:22 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 21:36:51 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 4616@LAPTOP-83BOBPJL
+
+[2021-04-08 21:36:51 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 21:36:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 21:36:51 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 21:36:51 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 21:36:51 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 21:36:51 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 21:36:51 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 21:36:51 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 21:36:51 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 21:36:51 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 21:36:51 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 21:36:51 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 21:36:51 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 21:36:51 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 21:36:51 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 21:36:51 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 21:36:51 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 21:36:51 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 21:36:51 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 21:36:51 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 21:36:51 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 21:36:51 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 21:41:45 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 7772@LAPTOP-83BOBPJL
+
+[2021-04-08 21:41:45 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 21:41:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 21:41:45 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 21:41:45 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 21:41:45 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 21:41:45 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 21:41:45 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 21:41:45 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 21:41:45 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 21:41:45 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 21:41:45 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 21:41:45 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 21:41:45 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 21:41:45 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 21:41:45 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 21:41:45 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 21:41:45 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 21:41:45 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 21:41:45 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 21:41:45 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 21:41:45 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 21:41:45 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 21:46:38 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 15716@LAPTOP-83BOBPJL
+
+[2021-04-08 21:46:38 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 21:46:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 21:46:38 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 21:46:38 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 21:46:38 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 21:46:38 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 21:46:38 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 21:46:38 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 21:46:38 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 21:46:38 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 21:46:38 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 21:46:38 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 21:46:38 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 21:46:38 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 21:46:38 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 21:46:38 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 21:46:38 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 21:46:38 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 21:46:38 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 21:46:38 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 21:46:38 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 21:46:38 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-08 21:50:39 #1 store] 
+Database 'C:\Users\Usuario\Desktop\workspace3\Bets21\src\main\resources\bets.temp' is opened by 13344@LAPTOP-83BOBPJL
+
+[2021-04-08 21:50:39 #2 type.registry] 
+New type domain.Question
+
+[2021-04-08 21:50:39 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-08 21:50:39 #4 type.registry] 
+New type domain.Pronostikoa
+
+[2021-04-08 21:50:39 #5 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-04-08 21:50:39 #6 type.registry] 
+New type domain.Event
+
+[2021-04-08 21:50:39 #7 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-04-08 21:50:39 #8 type.registry] 
+New type domain.Apostuak
+
+[2021-04-08 21:50:39 #9 type.registry] 
+New type java.util.ArrayList<domain.Apostuak>
+
+[2021-04-08 21:50:39 #10 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-08 21:50:39 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-08 21:50:39 #12 type] 
+Type domain.Apostuak is not enhanced.
+
+[2021-04-08 21:50:39 #13 type.registry] 
+New type domain.Erabiltzailea
+
+[2021-04-08 21:50:39 #14 type.registry] 
+New type domain.Erregistratua
+
+[2021-04-08 21:50:39 #15 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2021-04-08 21:50:39 #16 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2021-04-08 21:50:39 #17 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2021-04-08 21:50:39 #18 type.registry] 
+New type domain.Administratzailea
+
+[2021-04-08 21:50:39 #19 type] 
+Type domain.Administratzailea is not enhanced.
+
+[2021-04-08 21:50:39 #20 type.registry] 
+New type domain.Langilea
+
+[2021-04-08 21:50:39 #21 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-04-08 21:50:39 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-04-08 21:50:39 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
